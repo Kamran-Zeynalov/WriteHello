@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\bin\Debug\net6.0\ContryLanuages.exe
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\bin\Debug\net6.0\ContryLanuages.deps.json
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\bin\Debug\net6.0\ContryLanuages.runtimeconfig.json
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\bin\Debug\net6.0\ContryLanuages.dll
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\bin\Debug\net6.0\ContryLanuages.pdb
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ContryLanuages.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ContryLanuages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ContryLanuages.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ContryLanuages.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ContryLanuages.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ContryLanuages.dll
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\refint\ContryLanuages.dll
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ContryLanuages.pdb
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ContryLanuages.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\ContryLanuages\ContryLanuages\obj\Debug\net6.0\ref\ContryLanuages.dll
